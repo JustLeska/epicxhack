@@ -17,4 +17,4 @@ lol
 
 
 
-give money: https://ko-fi.com/leska_
+give money: https://ko-fi.com/leskahtml
