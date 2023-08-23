@@ -1,4 +1,6 @@
 # epicxhack
+# Patched by Byfron
+
 The next-gen powerful Roblox Exploit.
 
 EpicxHack is a powerful exploit using WeAreDevsAPI ☠️
