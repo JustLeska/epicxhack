@@ -1,5 +1,6 @@
 # epicxhack
 # working!
+## if you wanna know if it's up or not, join celery's Discord server: https://discord.gg/celery
 
 The next-gen powerful Roblox Exploit.
 
