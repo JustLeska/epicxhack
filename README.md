@@ -1,9 +1,9 @@
 # epicxhack (joke)
-# Patched by Byfron
+# working!
 
 The next-gen powerful Roblox Exploit.
 
-EpicxHack is a powerful exploit using WeAreDevsAPI ☠️
+EpicxHack is a powerful exploit using celery API so yeah it works with byfron ☠️
 
 lol
 
