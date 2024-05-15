@@ -1,4 +1,4 @@
-# epicxhack (joke)
+# epicxhack
 # working!
 
 The next-gen powerful Roblox Exploit.
