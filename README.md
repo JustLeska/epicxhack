@@ -7,6 +7,8 @@ EpicxHack is a powerful exploit using celery API so yeah it works with byfron â˜
 
 lol
 
+if its detected and u get banned dont blame me blame celery api or yourself
+
 ![image](https://user-images.githubusercontent.com/82216890/213182289-162fafd6-140a-4dc4-850d-d61de8010a80.png)
 
 
